@@ -22,11 +22,11 @@ Then activate the environment:
 ```
 path\to\env\Scripts\activate
 ```
-4. Install django and the REST framework in our local virtual environment (note that if you want to run the snippets app you have 
-to use ``` pip install pygments ```)
+4. Install django and the REST framework in our local virtual environment:
 ```
 pip install django
 pip install djangorestframework
+pip install pygments (to use snippets or you could delete it)
 ```
 5. go into our project directory (in the example, it is located in ```E:\RESTSampleApp-master\RESTSampleApp-master```)
 
